@@ -1,0 +1,570 @@
+   /* header complete */
+.a{
+    border: 1px solid black;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+  
+    height: 50px;
+    width: 300px;
+    float: left;
+    background-color: orange;
+    border-color: orange;
+}
+.a1{
+    font-size: 15px;
+    float: right;
+    margin-right: 20px;
+
+}
+.a2{
+    border: 1px solid black;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: orange;
+    border-color: orange;
+    height: 50px;
+    width: 1470px; 
+}
+.a3{
+    text-decoration: none;
+    float: right;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+.a3:hover{
+    color: darkred;
+}
+.a4{
+    text-decoration: none;
+    float: right;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+.a4:hover{
+    color: darkred;
+}
+.a5{
+    text-decoration: none;
+    float: right;
+    margin-right: 70px;
+    margin-top: 20px;
+}
+.a5:hover{
+    color: darkred;
+}
+/* nevbar start */
+
+.b{
+    border: 1px solid black;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: lightskyblue;
+    border-color:lightskyblue ;
+    height: 80px;
+    width: 1470px;
+}
+.but{
+    float: right;
+    height: 50px;
+    width: 120px;
+    font-size: 15px;
+    margin-top: 20px;
+    margin-right: 20px;
+    border: none;
+    border-radius: 2rem;
+   
+}
+
+.b1{
+    margin-left: 90px;
+}
+.b2{
+    text-decoration: none;
+    float: right;
+    margin-right: 60px;
+    margin-top: 30px;
+}
+.b3{
+    text-decoration: none;
+    float: right;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+.b4{
+    text-decoration: none;
+    float: right;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+.b5{
+    text-decoration: none;
+    float: right;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+.b6{
+    text-decoration: none;
+    float: right;
+    margin-right: 80px;
+    margin-top: 30px;
+}
+/* main imagae */
+
+.c{
+    border: 1px solid black;
+    background-color: lightskyblue;
+    border-color:lightskyblue ;
+    height: 800px;
+    width: 1470px; 
+}
+
+.c2{
+   position: absolute;
+   float:left;
+   margin-left: 60%;
+}
+.c3{
+    margin-top: 5%;
+    margin-left: 90px;
+    font-size: 45px;
+}
+.c4{
+    margin-left: 90px;
+    font-size: 20px;
+}
+.c5{
+    margin-left: 90px;
+    height: 50px;
+    width: 150px;
+    font-size: 15px;
+    margin-top: 20px;
+    background-color: orange;
+    border: none;
+}
+.c5:hover{
+    border-radius: 30px;
+}
+/* second page image */
+
+.d{
+    border: 1px solid black;
+    background-color: lightcyan;
+    border-color: lightcyan;
+    height: 1000px;
+    width: 1470px;
+}
+.d1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 40px;
+    color: blue;
+}
+.d2{
+    border: 1px solid black;
+    position: absolute;
+    height: 640px;
+    width: 300px;
+    margin-top: 10%;
+    margin-left: 30%;
+}
+.v{
+    margin-left: 30px;
+}
+.v1{
+   text-align: center; 
+   background-color: lightblue;
+}
+.v2{ 
+   
+    text-align: center;
+}
+
+.d3{
+    border: 1px solid black;
+    position: relative;
+    height: 600px;
+    width: 300px;
+    margin-left: 55%;
+    margin-top: 12%;
+}
+/* .d4{
+    border: 1px solid black;
+    height: 600px;
+    width: 300px;
+   
+
+}
+ */
+/* theerd page */
+.e{
+border: 1px solid black;
+background-color: lightcyan;
+border-color: lightcyan;
+height: 1000px;
+width: 1470px;
+}
+.g{
+    text-align: center;
+    font-size: 45px;
+}
+.g1{
+    text-align: center;
+    font-size: 20px;
+}
+.e1{
+border: 1px solid black;
+position: absolute;
+margin-top: 10%;
+margin-left: 20%;
+height: 400px;
+width:250px;
+}
+.g2{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.g3{
+    text-align: center;
+}
+.g4{
+    text-align: center;  
+}
+.e1:hover{
+  
+}
+.e2{
+border: 1px solid black;
+position: relative;
+margin-top: 11.2%;
+margin-left: 40%;
+height: 400px;
+width:250px;
+}
+.u2{
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.u3{
+    text-align: center;
+}
+.u4{
+    text-align: center;  
+}
+.e3{
+    text-align: center;
+    margin-top: 80px;
+}
+.u6{
+    height: 50px;
+    width:200px ;
+    background-color: orange;
+    border: none;
+    border-radius: 2rem;
+}
+.u6:hover{
+    border-radius: 30px;
+}
+/* four page */
+
+.h{
+    border: 1px solid black;
+    background-color: lightcyan;
+    border-color: lightcyan;
+    height: 800px;
+    width: 1470px; 
+}
+.h1{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 40px;
+}
+.h2{
+    text-align: center;
+    font-size: 25px;
+    
+}
+.h3{
+    border: 1px solid black;
+    height: 400px;
+    width: 300px; 
+    position: absolute;
+    margin-left: 10%;
+}
+.h4{
+    margin-left:30%;
+    margin-top:20%;
+}
+.h5{
+    text-align: center;
+    font-size:30px ;
+    margin-top: 30px;
+}
+.h5:hover{
+    color:coral;
+}
+.h6{
+    text-align: center;
+    font-size:20px ;
+    margin-top: 20px;
+}
+.h7{
+    border: 1px solid black;
+    height: 400px;
+    width: 300px; 
+    position: relative;
+    margin-left: 40%;
+}
+/* five page */
+.m{
+    border: 1px solid black;
+    background-color: lightcyan;
+    border-color: lightcyan;
+    height: 700px;
+    width: 1470px; 
+}
+.m1{
+    text-align: center;
+    background-color: gray;
+    font-size: 60px;
+}
+.m2{
+    border: 1px solid black;
+    border-color: whitesmoke;
+    background-color: white;
+    display: inline;
+    height: 400px;
+    width: 300px; 
+    position: absolute;
+    margin-left: 10%;
+}
+.m3{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.m4{
+    border: 1px solid black;
+    border-color: whitesmoke;
+    background-color: white;
+    background-image: url("https://amora.meander.software/static/media/WorkImage.6411e8ec4e28d4075cab.png");
+    background-size: cover;
+    display: inline;
+    height: 400px;
+    width: 350px; 
+    position: absolute;
+    margin-left: 31%;
+}
+
+.m5{
+    border: 1px solid black;
+    border-color: white;
+    background-color: white;
+    display: inline;
+    height: 400px;
+    width: 500px; 
+    position: absolute;
+    margin-left: 55%;
+}
+
+.m6{
+  margin-left: 10%;
+  margin-top: 30%;
+  font-size: 20px;
+}
+/* six page */
+.j{
+    border: 1px solid black;
+    background-color: pink;
+    border-color:pink;
+    height: 700px;
+    width: 1470px; 
+}
+.j1{
+    border: 1px solid black;
+    background-color: white;
+    border-color: white;
+    background-image: url("https://amora.meander.software/static/media/trust&safety.85ae9ca38285d1f827d3.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    display: inline;
+    height: 350px;
+    width: 680px;
+    margin-top: 15%;
+    margin-left: 8%;
+}
+.j2{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+.j3{
+    margin-left: 45%;
+    font-size: 18px; 
+    margin-top: 10%; 
+}
+.j4{
+    margin-left: 45%;
+    height: 50px;
+    width: 150px;
+    margin-top: 12%;
+    background-color: aqua;
+    border-color: aqua;
+    border: none;
+    border-radius: 2rem;
+}
+.j4:hover{
+    border-radius: 30px;
+}
+.j5{
+    border: 1px solid black;
+    background-color: white;
+    border-color: white;
+    background-image: url("https://amora.meander.software/static/media/simpleMember.dac97ad2c147323a0853.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    display: inline;
+    height: 300px;
+    width: 550px;
+    margin-top: 15%;
+    margin-left: 55%;
+}
+.j6{
+    margin-left: 45%;
+    height: 50px;
+    width: 150px;
+    margin-top: 10%;
+    background-color: aqua;
+    border-color: aqua;
+    border: none;
+    border-radius: 2rem;
+}
+.j6:hover{
+    border-radius: 30px;
+}
+/* sev page */
+.l{
+    border: 1px solid black;
+    background-color: lightcyan;
+    border-color: lightcyan;
+    height: 800px;
+    width: 1470px; 
+}
+.l1{
+    border: 1px solid black;
+    background-color: lightcyan;
+    border-color: lightcyan;
+    background-image: url("https://amora.meander.software/static/media/dowloadApp.d08529aac5126e5bc199.png");
+    background-size: cover;
+    position: absolute;
+    height: 500px;
+    width: 400px;  
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.l2{
+    border: 1px solid black;
+    background-color: lightcyan;
+    border-color: lightcyan;
+    position: relative;
+    height: 500px;
+    width: 720px;  
+    margin-left: 50%;
+    margin-top: 20%;
+}
+.l3{
+    color: chocolate;
+}
+.l4{
+    font-size: 45px;
+}
+.l5{
+    font-size: 23px;
+}
+/* late page */
+.x{
+    border: 1px solid black;
+    background-color: black;
+    height: 300px;
+    width: 1470px;
+}
+.x1{
+    border: 1px solid black;
+    background-color: black;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    display: inline;
+}
+.z{
+    margin-left: 10%;
+    color: white;
+    font-size: 25px;
+    background-color: black;
+}
+.z1{
+    text-decoration: none;
+    background-color: black;
+    margin-left: 10%;
+    margin-top: 20%;
+    color:white;
+}
+.x2{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    display: inline;
+    margin-left: 20%;
+}
+.x3{
+    border: 1px solid black;
+    height: 300px;
+    width: 300px;
+    position: absolute;
+    display: inline;
+    margin-left: 40%;
+ 
+}
+.x4{
+    border: 1px solid black;
+    background-color: black;
+    height: 300px;
+    width: 560px;
+    position:absolute;
+    display: inline;
+    margin-left: 60%;
+  
+}
+.z2{
+    margin-left: 20%;
+    margin-top: 15%;
+    color: white;
+   
+}
+.z3{
+    margin-left: 20%; 
+    height: 40px;
+    width: 300px; 
+}
+.z4{
+    height: 40px;
+    width: 100px;
+    background-color: chocolate;
+    border-color:chocolate;
+}
+.vi{
+    border: 1px solid black;
+    background-color: black;
+    height: 50px;
+    width: 1470px;
+}
+.vs{
+    text-align: center;
+    font-size: 25px;
+    color: white;
+}
+.hj{
+    border: 1px solid white;
+}
